@@ -21,7 +21,7 @@ It uses file handling to store student records permanently and provides a menu-d
 
 ### Compile
 ```bash
-g++ main.cpp -o student
+g++ task1.cpp -o student
 ```
 
 ### Run
