@@ -48,16 +48,11 @@ g++ main.cpp -o student
 - Loops
 - Menu-Driven Programming
 
-# Output Screenshots
+## Output Screenshot
 
 ![Create Account](op1.png)
 
 ---
-
-
-## Balance Inquiry
-
-![Balance Check](images/balance_check.png)
 
 ## Output File
 Student records are stored in:
