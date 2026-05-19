@@ -50,23 +50,10 @@ g++ main.cpp -o student
 
 # Output Screenshots
 
-## Create Account
-
-![Create Account](images/create_account.png)
+![Create Account](op1.png)
 
 ---
 
-## Deposit Money
-
-![Deposit](images/deposit.png)
-
----
-
-## Withdraw Money
-
-![Withdraw](images/withdraw.png)
-
----
 
 ## Balance Inquiry
 
