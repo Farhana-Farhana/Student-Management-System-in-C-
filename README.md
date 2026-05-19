@@ -1,6 +1,5 @@
 # Student Management System in C++
 
-## Overview
 This project is a console-based Student Management System developed using C++.  
 It uses file handling to store student records permanently and provides a menu-driven interface for managing student details.
 
