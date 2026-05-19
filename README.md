@@ -17,14 +17,6 @@ It uses file handling to store student records permanently and provides a menu-d
 - File Handling
 - Object-Oriented Programming (OOP)
 
-## Project Structure
-
-Student-Management-System/
-│
-├── main.cpp
-├── students.txt
-└── README.md
-
 ## How to Run
 
 ### Compile
@@ -55,6 +47,30 @@ g++ main.cpp -o student
 - Conditional Statements
 - Loops
 - Menu-Driven Programming
+
+# Output Screenshots
+
+## Create Account
+
+![Create Account](images/create_account.png)
+
+---
+
+## Deposit Money
+
+![Deposit](images/deposit.png)
+
+---
+
+## Withdraw Money
+
+![Withdraw](images/withdraw.png)
+
+---
+
+## Balance Inquiry
+
+![Balance Check](images/balance_check.png)
 
 ## Output File
 Student records are stored in:
